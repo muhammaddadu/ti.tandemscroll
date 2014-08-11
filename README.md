@@ -1,2 +1,2 @@
-ti.tandemscroll [![Build Status](https://travis-ci.org/appcelerator-modules/ti.tandemscroll.svg)](https://travis-ci.org/appcelerator-modules/ti.tandemscroll)
+ti.tandemscroll [![Build Status](https://travis-ci.org/muhammaddadu/ti.tandemscroll.svg)](https://travis-ci.org/muhammaddadu/ti.tandemscroll)
 =======
